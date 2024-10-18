@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/medical_certification/static/css/main.c3485bdb.css",
+    "main.js": "/medical_certification/static/js/main.883cab46.js",
+    "static/media/pikh.jpg": "/medical_certification/static/media/pikh.2439f4a749f40323ac2c.jpg",
+    "index.html": "/medical_certification/index.html",
+    "main.c3485bdb.css.map": "/medical_certification/static/css/main.c3485bdb.css.map",
+    "main.883cab46.js.map": "/medical_certification/static/js/main.883cab46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3485bdb.css",
+    "static/js/main.883cab46.js"
+  ]
+}
